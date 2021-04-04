@@ -1,0 +1,7 @@
+D:\Work Files\TechnicalTest\GET.Core.Domain\bin\Debug\netstandard2.0\GET.Core.Domain.deps.json
+D:\Work Files\TechnicalTest\GET.Core.Domain\bin\Debug\netstandard2.0\GET.Core.Domain.dll
+D:\Work Files\TechnicalTest\GET.Core.Domain\bin\Debug\netstandard2.0\GET.Core.Domain.pdb
+D:\Work Files\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.AssemblyInfoInputs.cache
+D:\Work Files\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.AssemblyInfo.cs
+D:\Work Files\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.dll
+D:\Work Files\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.pdb
