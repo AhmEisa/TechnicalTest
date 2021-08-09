@@ -13,3 +13,19 @@ D:\Work Files\TechnicalTest\GET.Infrastructure.Common\bin\Debug\netcoreapp3.1\GE
 D:\Work Files\TechnicalTest\GET.Infrastructure.Common\bin\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.pdb
 D:\Work Files\TechnicalTest\GET.Infrastructure.Common\obj\Debug\netcoreapp3.1\GET.Infrastructure.Common.dll
 D:\Work Files\TechnicalTest\GET.Infrastructure.Common\obj\Debug\netcoreapp3.1\GET.Infrastructure.Common.pdb
+D:\TechnicalTest\GET.Infrastructure.Common\bin\Debug\netcoreapp3.1\GET.Infrastructure.Common.deps.json
+D:\TechnicalTest\GET.Infrastructure.Common\bin\Debug\netcoreapp3.1\GET.Infrastructure.Common.dll
+D:\TechnicalTest\GET.Infrastructure.Common\bin\Debug\netcoreapp3.1\GET.Infrastructure.Common.pdb
+D:\TechnicalTest\GET.Infrastructure.Common\bin\Debug\netcoreapp3.1\GET.Core.Application.dll
+D:\TechnicalTest\GET.Infrastructure.Common\bin\Debug\netcoreapp3.1\GET.Core.Domain.dll
+D:\TechnicalTest\GET.Infrastructure.Common\bin\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.dll
+D:\TechnicalTest\GET.Infrastructure.Common\bin\Debug\netcoreapp3.1\GET.Core.Application.pdb
+D:\TechnicalTest\GET.Infrastructure.Common\bin\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.pdb
+D:\TechnicalTest\GET.Infrastructure.Common\bin\Debug\netcoreapp3.1\GET.Core.Domain.pdb
+D:\TechnicalTest\GET.Infrastructure.Common\obj\Debug\netcoreapp3.1\GET.Infrastructure.Common.csprojAssemblyReference.cache
+D:\TechnicalTest\GET.Infrastructure.Common\obj\Debug\netcoreapp3.1\GET.Infrastructure.Common.AssemblyInfoInputs.cache
+D:\TechnicalTest\GET.Infrastructure.Common\obj\Debug\netcoreapp3.1\GET.Infrastructure.Common.AssemblyInfo.cs
+D:\TechnicalTest\GET.Infrastructure.Common\obj\Debug\netcoreapp3.1\GET.Infrastructure.Common.csproj.CoreCompileInputs.cache
+D:\TechnicalTest\GET.Infrastructure.Common\obj\Debug\netcoreapp3.1\GET.Infrastructure.Common.csproj.CopyComplete
+D:\TechnicalTest\GET.Infrastructure.Common\obj\Debug\netcoreapp3.1\GET.Infrastructure.Common.dll
+D:\TechnicalTest\GET.Infrastructure.Common\obj\Debug\netcoreapp3.1\GET.Infrastructure.Common.pdb

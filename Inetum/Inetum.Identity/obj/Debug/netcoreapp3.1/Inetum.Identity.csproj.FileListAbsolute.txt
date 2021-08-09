@@ -1,0 +1,15 @@
+D:\TechnicalTest\Inetum\Inetum.Identity\bin\Debug\netcoreapp3.1\Inetum.Identity.deps.json
+D:\TechnicalTest\Inetum\Inetum.Identity\bin\Debug\netcoreapp3.1\Inetum.Identity.runtimeconfig.json
+D:\TechnicalTest\Inetum\Inetum.Identity\bin\Debug\netcoreapp3.1\Inetum.Identity.runtimeconfig.dev.json
+D:\TechnicalTest\Inetum\Inetum.Identity\bin\Debug\netcoreapp3.1\Inetum.Identity.dll
+D:\TechnicalTest\Inetum\Inetum.Identity\bin\Debug\netcoreapp3.1\Inetum.Identity.pdb
+D:\TechnicalTest\Inetum\Inetum.Identity\bin\Debug\netcoreapp3.1\Inetum.Application.dll
+D:\TechnicalTest\Inetum\Inetum.Identity\bin\Debug\netcoreapp3.1\Inetum.Application.pdb
+D:\TechnicalTest\Inetum\Inetum.Identity\obj\Debug\netcoreapp3.1\Inetum.Identity.csprojAssemblyReference.cache
+D:\TechnicalTest\Inetum\Inetum.Identity\obj\Debug\netcoreapp3.1\Inetum.Identity.AssemblyInfoInputs.cache
+D:\TechnicalTest\Inetum\Inetum.Identity\obj\Debug\netcoreapp3.1\Inetum.Identity.AssemblyInfo.cs
+D:\TechnicalTest\Inetum\Inetum.Identity\obj\Debug\netcoreapp3.1\Inetum.Identity.csproj.CoreCompileInputs.cache
+D:\TechnicalTest\Inetum\Inetum.Identity\obj\Debug\netcoreapp3.1\Inetum.Identity.csproj.CopyComplete
+D:\TechnicalTest\Inetum\Inetum.Identity\obj\Debug\netcoreapp3.1\Inetum.Identity.dll
+D:\TechnicalTest\Inetum\Inetum.Identity\obj\Debug\netcoreapp3.1\Inetum.Identity.pdb
+D:\TechnicalTest\Inetum\Inetum.Identity\obj\Debug\netcoreapp3.1\Inetum.Identity.genruntimeconfig.cache

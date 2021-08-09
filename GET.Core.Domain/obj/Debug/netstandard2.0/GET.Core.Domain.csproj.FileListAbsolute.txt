@@ -5,3 +5,12 @@ D:\Work Files\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Do
 D:\Work Files\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.AssemblyInfo.cs
 D:\Work Files\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.dll
 D:\Work Files\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.pdb
+D:\TechnicalTest\GET.Core.Domain\bin\Debug\netstandard2.0\GET.Core.Domain.deps.json
+D:\TechnicalTest\GET.Core.Domain\bin\Debug\netstandard2.0\GET.Core.Domain.dll
+D:\TechnicalTest\GET.Core.Domain\bin\Debug\netstandard2.0\GET.Core.Domain.pdb
+D:\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.csprojAssemblyReference.cache
+D:\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.AssemblyInfoInputs.cache
+D:\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.AssemblyInfo.cs
+D:\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.csproj.CoreCompileInputs.cache
+D:\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.dll
+D:\TechnicalTest\GET.Core.Domain\obj\Debug\netstandard2.0\GET.Core.Domain.pdb

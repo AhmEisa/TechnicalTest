@@ -1,0 +1,9 @@
+D:\TechnicalTest\Inetum\Inetum.Application\bin\Debug\netstandard2.1\Inetum.Application.deps.json
+D:\TechnicalTest\Inetum\Inetum.Application\bin\Debug\netstandard2.1\Inetum.Application.dll
+D:\TechnicalTest\Inetum\Inetum.Application\bin\Debug\netstandard2.1\Inetum.Application.pdb
+D:\TechnicalTest\Inetum\Inetum.Application\obj\Debug\netstandard2.1\Inetum.Application.csprojAssemblyReference.cache
+D:\TechnicalTest\Inetum\Inetum.Application\obj\Debug\netstandard2.1\Inetum.Application.AssemblyInfoInputs.cache
+D:\TechnicalTest\Inetum\Inetum.Application\obj\Debug\netstandard2.1\Inetum.Application.AssemblyInfo.cs
+D:\TechnicalTest\Inetum\Inetum.Application\obj\Debug\netstandard2.1\Inetum.Application.csproj.CoreCompileInputs.cache
+D:\TechnicalTest\Inetum\Inetum.Application\obj\Debug\netstandard2.1\Inetum.Application.dll
+D:\TechnicalTest\Inetum\Inetum.Application\obj\Debug\netstandard2.1\Inetum.Application.pdb

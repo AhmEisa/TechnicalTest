@@ -14,3 +14,20 @@ D:\Work Files\TechnicalTest\GET.Infrastructure.Persistence\obj\Debug\netcoreapp3
 D:\Work Files\TechnicalTest\GET.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.dll
 D:\Work Files\TechnicalTest\GET.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.pdb
 D:\Work Files\TechnicalTest\GET.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.genruntimeconfig.cache
+D:\TechnicalTest\GET.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.deps.json
+D:\TechnicalTest\GET.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.runtimeconfig.json
+D:\TechnicalTest\GET.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.runtimeconfig.dev.json
+D:\TechnicalTest\GET.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.dll
+D:\TechnicalTest\GET.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.pdb
+D:\TechnicalTest\GET.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\GET.Core.Application.dll
+D:\TechnicalTest\GET.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\GET.Core.Domain.dll
+D:\TechnicalTest\GET.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\GET.Core.Application.pdb
+D:\TechnicalTest\GET.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\GET.Core.Domain.pdb
+D:\TechnicalTest\GET.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.csprojAssemblyReference.cache
+D:\TechnicalTest\GET.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\TechnicalTest\GET.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.AssemblyInfo.cs
+D:\TechnicalTest\GET.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\TechnicalTest\GET.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.csproj.CopyComplete
+D:\TechnicalTest\GET.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.dll
+D:\TechnicalTest\GET.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.pdb
+D:\TechnicalTest\GET.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\GET.Infrastructure.Persistence.genruntimeconfig.cache

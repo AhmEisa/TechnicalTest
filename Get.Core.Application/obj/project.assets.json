@@ -964,24 +964,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AIssa\\.nuget\\packages\\": {},
+    "C:\\Users\\aeissa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work Files\\development\\TechnicalTest\\Get.Core.Application\\GET.Core.Application.csproj",
+      "projectUniqueName": "D:\\TechnicalTest\\Get.Core.Application\\GET.Core.Application.csproj",
       "projectName": "GET.Core.Application",
-      "projectPath": "D:\\Work Files\\development\\TechnicalTest\\Get.Core.Application\\GET.Core.Application.csproj",
-      "packagesPath": "C:\\Users\\AIssa\\.nuget\\packages\\",
-      "outputPath": "D:\\Work Files\\development\\TechnicalTest\\Get.Core.Application\\obj\\",
+      "projectPath": "D:\\TechnicalTest\\Get.Core.Application\\GET.Core.Application.csproj",
+      "packagesPath": "C:\\Users\\aeissa\\.nuget\\packages\\",
+      "outputPath": "D:\\TechnicalTest\\Get.Core.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\AIssa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\aeissa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -992,9 +998,10 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\Work Files\\development\\TechnicalTest\\GET.Core.Domain\\GET.Core.Domain.csproj": {
-              "projectPath": "D:\\Work Files\\development\\TechnicalTest\\GET.Core.Domain\\GET.Core.Domain.csproj"
+            "D:\\TechnicalTest\\GET.Core.Domain\\GET.Core.Domain.csproj": {
+              "projectPath": "D:\\TechnicalTest\\GET.Core.Domain\\GET.Core.Domain.csproj"
             }
           }
         }
@@ -1007,6 +1014,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
@@ -1045,7 +1053,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

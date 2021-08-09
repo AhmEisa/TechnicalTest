@@ -7,3 +7,13 @@ D:\Work Files\TechnicalTest\GET.Services.Database\obj\Debug\Model.xml
 D:\Work Files\TechnicalTest\GET.Services.Database\obj\Debug\refactor.xml
 D:\Work Files\TechnicalTest\GET.Services.Database\obj\Debug\postdeploy.sql
 D:\Work Files\TechnicalTest\GET.Services.Database\obj\Debug\predeploy.sql
+D:\TechnicalTest\GET.Services.Database\bin\Debug\GET.Services.Database.dacpac
+D:\TechnicalTest\GET.Services.Database\bin\Debug\GET.Services.Database.dll
+D:\TechnicalTest\GET.Services.Database\bin\Debug\GET.Services.Database.pdb
+D:\TechnicalTest\GET.Services.Database\obj\Debug\GET.Services.Database.sqlprojAssemblyReference.cache
+D:\TechnicalTest\GET.Services.Database\obj\Debug\Model.xml
+D:\TechnicalTest\GET.Services.Database\obj\Debug\refactor.xml
+D:\TechnicalTest\GET.Services.Database\obj\Debug\postdeploy.sql
+D:\TechnicalTest\GET.Services.Database\obj\Debug\predeploy.sql
+D:\TechnicalTest\GET.Services.Database\obj\Debug\GET.Services.Database.dll
+D:\TechnicalTest\GET.Services.Database\obj\Debug\GET.Services.Database.pdb
