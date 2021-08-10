@@ -154,3 +154,10 @@ D:\TechnicalTest\Inetum\Inetum.Api\obj\Debug\netcoreapp3.1\Inetum.Api.csproj.Cop
 D:\TechnicalTest\Inetum\Inetum.Api\obj\Debug\netcoreapp3.1\Inetum.Api.dll
 D:\TechnicalTest\Inetum\Inetum.Api\obj\Debug\netcoreapp3.1\Inetum.Api.pdb
 D:\TechnicalTest\Inetum\Inetum.Api\obj\Debug\netcoreapp3.1\Inetum.Api.genruntimeconfig.cache
+D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\NLog.dll
+D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\Inetum.Domain.dll
+D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\Inetum.Domain.pdb

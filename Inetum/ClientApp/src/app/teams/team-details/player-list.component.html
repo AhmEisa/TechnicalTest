@@ -1,0 +1,19 @@
+<div class="row" *ngFor="let player of players">
+    <div class="col-md-10">
+      <collapsible-well [title]="player.name">
+        <div well-title>
+          {{player.name}}
+         </div>
+        <div well-body>
+          <span>Date Of Birth: {{player.dateOfBirth | date}}</span><br />
+          <span>Nationality: {{player.nationality}}</span><br />
+          <span>Image: {{player.imageUrl}}</span><br />
+          </div>
+      </collapsible-well>
+    </div>
+    <div class="col-md-1">
+      <div *ngIf="auth.isAuthenticated()">
+        <h1>Edit and Delete</h1>
+      </div>
+    </div>
+  </div>

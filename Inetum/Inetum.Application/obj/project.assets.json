@@ -236,6 +236,16 @@
         "runtime": {
           "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
         }
+      },
+      "Inetum.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Inetum.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inetum.Domain.dll": {}
+        }
       }
     }
   },
@@ -834,6 +844,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Inetum.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Inetum.Domain/Inetum.Domain.csproj",
+      "msbuildProject": "../Inetum.Domain/Inetum.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -842,6 +857,7 @@
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.0",
       "FluentValidation >= 9.2.2",
       "FluentValidation.DependencyInjectionExtensions >= 9.2.0",
+      "Inetum.Domain >= 1.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 9.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 3.1.10",
       "System.Text.Json >= 4.7.2"
@@ -883,7 +899,11 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\TechnicalTest\\Inetum\\Inetum.Domain\\Inetum.Domain.csproj": {
+              "projectPath": "D:\\TechnicalTest\\Inetum\\Inetum.Domain\\Inetum.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

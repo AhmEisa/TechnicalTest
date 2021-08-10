@@ -1,0 +1,36 @@
+<h1>New Team</h1>
+<hr>
+<div class="col-md-6">
+  <form #newTeamForm="ngForm" (ngSubmit)="saveTeam(newTeamForm.value)" autocomplete="off" novalidate>
+    <div class="form-group" [ngClass]="{'error': newTeamForm.controls.name?.invalid && newTeamForm.controls.name?.touched}">
+      <label for="name">Team Name:</label>
+      <em *ngIf="newTeamForm.controls.name?.invalid && (newTeamForm.controls.name?.touched)">Required</em>
+      <input (ngModel)="newTeam.name" name="name" required id="name" type="text" class="form-control" placeholder="Name of team..." />
+    </div>
+    <div class="form-group" [ngClass]="{'error': newTeamForm.controls.foundationDate?.invalid && newTeamForm.controls.foundationDate?.touched}">
+      <label for="teamDate">Foundation Date:</label>
+      <em *ngIf="newTeamForm.controls.foundationDate?.invalid && (newTeamForm.controls.foundationDate?.touched)">Required</em>
+      <input (ngModel)="newTeam.foundationDate" name="foundationDate" required id="teamDate" type="date" class="form-control" placeholder="format (mm/dd/yyyy)..." />
+    </div>
+    <div class="form-group" [ngClass]="{'error': newTeamForm.controls.country?.invalid && newTeamForm.controls.country?.touched}">
+      <label for="country">Country:</label>
+      <em *ngIf="newTeamForm.controls.country?.invalid && (newTeamForm.controls.country?.touched)">Required</em>
+      <input (ngModel)="newTeam.country" name="country" required id="country" type="text" class="form-control" placeholder="country..." />
+    </div>
+    <div class="form-group" [ngClass]="{'error': newTeamForm.controls.coachName?.invalid && newTeamForm.controls.coachName?.touched}">
+      <label for="coachName">Coach Name:</label>
+      <em *ngIf="newTeamForm.controls.coachName?.invalid && (newTeamForm.controls.coachName?.touched)">Required</em>
+      <input (ngModel)="newTeam.coachName" name="coachName" required id="coachName" type="text" type="text" class="form-control" placeholder="coach name..." />
+    </div>
+   <div class="form-group" [ngClass]="{'error': newTeamForm.controls.logoUrl?.invalid && newTeamForm.controls.logoUrl?.touched}">
+      <label for="logoUrl">Logo Image:</label>
+      <em *ngIf="newTeamForm.controls.logoUrl?.invalid && newTeamForm.controls.logoUrl?.touched && newTeamForm.controls.logoUrl?.errors.required">Required</em>
+      <em *ngIf="newTeamForm.controls.logoUrl?.invalid && newTeamForm.controls.logoUrl?.touched  && newTeamForm.controls.logoUrl?.errors.pattern">Must be a png or jpg url</em>
+      <input (ngModel)="newTeam.logoUrl" name="logoUrl" required pattern=".*\/.*.(png|jpg)" id="logoUrl" type="text" class="form-control" placeholder="url of image..." />
+      <img [src]="newTeamForm.controls.logoUrl.value" *ngIf="newTeamForm.controls.logoUrl?.valid" />
+    </div>
+    
+    <button type="submit" [disabled]="newTeamForm.invalid" class="btn btn-primary">Save</button>
+    <button type="button" class="btn btn-default" (click)="cancel()">Cancel</button>
+  </form>
+</div>

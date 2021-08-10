@@ -1195,12 +1195,18 @@
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.0",
           "FluentValidation": "9.2.2",
           "FluentValidation.DependencyInjectionExtensions": "9.2.0",
+          "Inetum.Domain": "1.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "3.1.10",
           "System.Text.Json": "4.7.2"
         },
         "runtime": {
           "Inetum.Application.dll": {}
+        }
+      },
+      "Inetum.Domain/1.0.0": {
+        "runtime": {
+          "Inetum.Domain.dll": {}
         }
       }
     }
@@ -2017,6 +2023,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Inetum.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inetum.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

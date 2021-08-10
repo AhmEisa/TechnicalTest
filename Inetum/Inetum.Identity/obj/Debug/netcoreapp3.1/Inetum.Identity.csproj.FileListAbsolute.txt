@@ -13,3 +13,5 @@ D:\TechnicalTest\Inetum\Inetum.Identity\obj\Debug\netcoreapp3.1\Inetum.Identity.
 D:\TechnicalTest\Inetum\Inetum.Identity\obj\Debug\netcoreapp3.1\Inetum.Identity.dll
 D:\TechnicalTest\Inetum\Inetum.Identity\obj\Debug\netcoreapp3.1\Inetum.Identity.pdb
 D:\TechnicalTest\Inetum\Inetum.Identity\obj\Debug\netcoreapp3.1\Inetum.Identity.genruntimeconfig.cache
+D:\TechnicalTest\Inetum\Inetum.Identity\bin\Debug\netcoreapp3.1\Inetum.Domain.dll
+D:\TechnicalTest\Inetum\Inetum.Identity\bin\Debug\netcoreapp3.1\Inetum.Domain.pdb

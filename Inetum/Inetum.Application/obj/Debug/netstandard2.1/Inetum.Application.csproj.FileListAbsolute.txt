@@ -7,3 +7,6 @@ D:\TechnicalTest\Inetum\Inetum.Application\obj\Debug\netstandard2.1\Inetum.Appli
 D:\TechnicalTest\Inetum\Inetum.Application\obj\Debug\netstandard2.1\Inetum.Application.csproj.CoreCompileInputs.cache
 D:\TechnicalTest\Inetum\Inetum.Application\obj\Debug\netstandard2.1\Inetum.Application.dll
 D:\TechnicalTest\Inetum\Inetum.Application\obj\Debug\netstandard2.1\Inetum.Application.pdb
+D:\TechnicalTest\Inetum\Inetum.Application\bin\Debug\netstandard2.1\Inetum.Domain.dll
+D:\TechnicalTest\Inetum\Inetum.Application\bin\Debug\netstandard2.1\Inetum.Domain.pdb
+D:\TechnicalTest\Inetum\Inetum.Application\obj\Debug\netstandard2.1\Inetum.Application.csproj.CopyComplete

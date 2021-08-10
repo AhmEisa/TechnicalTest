@@ -1,6 +1,8 @@
 ﻿using Inetum.Application.Contracts.Identity;
+using Inetum.Application.Contracts.Persistence;
 using Inetum.Application.Models.Authentication;
 using Inetum.Identity.Models;
+using Inetum.Identity.Repositories;
 using Inetum.Identity.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Http;
@@ -74,6 +76,11 @@ namespace Inetum.Identity
                         },
                     };
                 });
+
+            //Persistence
+            services.AddScoped(typeof(IAsyncRepository<>), typeof(BaseRepository<>));
+            services.AddScoped<ITeamRepository, TeamRepository>();
+            
         }
     }
 }

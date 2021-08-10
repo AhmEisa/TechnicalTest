@@ -5,27 +5,29 @@ VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GET", "GET", "{B5995DF1-D50E-4A80-9DA9-14704524381C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GET.Core.Domain", "GET.Core.Domain\GET.Core.Domain.csproj", "{8C385D57-9472-4D89-8703-825A5B229766}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GET.Core.Domain", "GET\GET.Core.Domain\GET.Core.Domain.csproj", "{8C385D57-9472-4D89-8703-825A5B229766}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GET.Core.Application", "Get.Core.Application\GET.Core.Application.csproj", "{43FC3C83-B428-4BC7-AAF6-AC9F355F83D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GET.Core.Application", "GET\Get.Core.Application\GET.Core.Application.csproj", "{43FC3C83-B428-4BC7-AAF6-AC9F355F83D6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GET.API", "GET.API\GET.API.csproj", "{49D9313B-6D18-4032-8253-24BC852CC96C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GET.API", "GET\GET.API\GET.API.csproj", "{49D9313B-6D18-4032-8253-24BC852CC96C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GET.Infrastructure.Persistence", "GET.Infrastructure.Persistence\GET.Infrastructure.Persistence.csproj", "{C878CD3C-C20B-4683-AF16-A5CA1EE23EC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GET.Infrastructure.Persistence", "GET\GET.Infrastructure.Persistence\GET.Infrastructure.Persistence.csproj", "{C878CD3C-C20B-4683-AF16-A5CA1EE23EC1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{7DA8A19F-E26F-4670-9DDF-8B2A2FD564BA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "GET\Database", "{7DA8A19F-E26F-4670-9DDF-8B2A2FD564BA}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "GET.Services.Database", "GET.Services.Database\GET.Services.Database.sqlproj", "{070A2064-3DE6-4C94-9E4C-4241121F407D}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "GET.Services.Database", "GET\GET.Services.Database\GET.Services.Database.sqlproj", "{070A2064-3DE6-4C94-9E4C-4241121F407D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GET.Infrastructure.Common", "GET.Infrastructure.Common\GET.Infrastructure.Common.csproj", "{4FEF3D30-214D-47B8-A2DD-7A98CCE2E923}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GET.Infrastructure.Common", "GET\GET.Infrastructure.Common\GET.Infrastructure.Common.csproj", "{4FEF3D30-214D-47B8-A2DD-7A98CCE2E923}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inetum", "Inetum", "{DD851A47-FE77-4A1A-9426-A0D610DCE430}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inetum.Api", "Inetum\Inetum.Api\Inetum.Api.csproj", "{BDFDDBCE-F83C-4B4A-ACCA-99016E1C4996}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inetum.Api", "Inetum\Inetum.Api\Inetum.Api.csproj", "{BDFDDBCE-F83C-4B4A-ACCA-99016E1C4996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inetum.Identity", "Inetum\Inetum.Identity\Inetum.Identity.csproj", "{1C583D73-3FDB-4207-8C9C-710859E595AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inetum.Identity", "Inetum\Inetum.Identity\Inetum.Identity.csproj", "{1C583D73-3FDB-4207-8C9C-710859E595AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inetum.Application", "Inetum\Inetum.Application\Inetum.Application.csproj", "{A6402DA2-4FD9-42A4-92B9-04678CE6C358}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inetum.Application", "Inetum\Inetum.Application\Inetum.Application.csproj", "{A6402DA2-4FD9-42A4-92B9-04678CE6C358}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inetum.Domain", "Inetum\Inetum.Domain\Inetum.Domain.csproj", "{3D9F3F6F-699C-4513-A331-FF9409B33DC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +73,10 @@ Global
 		{A6402DA2-4FD9-42A4-92B9-04678CE6C358}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6402DA2-4FD9-42A4-92B9-04678CE6C358}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6402DA2-4FD9-42A4-92B9-04678CE6C358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9F3F6F-699C-4513-A331-FF9409B33DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9F3F6F-699C-4513-A331-FF9409B33DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9F3F6F-699C-4513-A331-FF9409B33DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9F3F6F-699C-4513-A331-FF9409B33DC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +92,7 @@ Global
 		{BDFDDBCE-F83C-4B4A-ACCA-99016E1C4996} = {DD851A47-FE77-4A1A-9426-A0D610DCE430}
 		{1C583D73-3FDB-4207-8C9C-710859E595AC} = {DD851A47-FE77-4A1A-9426-A0D610DCE430}
 		{A6402DA2-4FD9-42A4-92B9-04678CE6C358} = {DD851A47-FE77-4A1A-9426-A0D610DCE430}
+		{3D9F3F6F-699C-4513-A331-FF9409B33DC8} = {DD851A47-FE77-4A1A-9426-A0D610DCE430}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F10EC51F-C88B-4912-AB6B-B2A00C6D413E}

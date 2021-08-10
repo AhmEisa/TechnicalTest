@@ -1,0 +1,32 @@
+<div class="container">
+    <img [src]="team?.logoUrl" [alt]="team?.name" class="event-image">
+  
+    <div class="row">
+      <div class="col-md-11">
+        <h2>{{team?.name | uppercase}} </h2>
+      </div>
+    </div>
+  
+    <div class="row">
+      <div class="col-md-6">
+        <div><strong>Foundation Date:</strong> {{team?.foundationDate | date:'shortDate'}}</div>
+        <div><strong>Country:</strong> {{team?.country}}</div>
+        <div><strong>Coach Name:</strong> {{team?.coachName}}</div>
+      </div>
+     </div>
+  
+    <hr>
+  
+    <div class="row" style="margin-bottom: 10px">
+      <div class="col-md-2">
+        <h3 style="margin:0">Players</h3>
+      </div>
+      <div class="col-md-2">
+        <a (click)="addPlayer()">Add Player</a>
+      </div>
+    </div>
+  
+    <player-list [teamId]="team?.teamId" *ngIf="!addMode" [players]="team?.players"></player-list>
+    <create-player *ngIf="addMode" (saveNewPlayer)="saveNewPlayer($event)" (cancelAddPlayer)="cancelAddPlayer()"></create-player>
+  
+  </div>

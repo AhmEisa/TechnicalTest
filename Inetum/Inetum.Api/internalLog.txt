@@ -1,0 +1,232 @@
+2021-08-09 18:40:55.8411 Info Message Template Auto Format enabled
+2021-08-09 18:40:55.8705 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-09 18:40:55.9609 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-09 18:40:56.0545 Info Adding target FileTarget(Name=alldata)
+2021-08-09 18:40:56.1051 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-09 18:43:00.2444 Info Shutdown() called. Logger closing...
+2021-08-09 18:43:00.2444 Info Closing old configuration.
+2021-08-09 18:43:00.2601 Info Logger has been closed down.
+2021-08-09 18:43:00.2601 Info AppDomain Shutting down. Logger closing...
+2021-08-09 18:43:00.2601 Info Logger has been shut down.
+2021-08-09 18:43:07.0250 Info Message Template Auto Format enabled
+2021-08-09 18:43:07.0508 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-09 18:43:07.1475 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-09 18:43:07.2389 Info Adding target FileTarget(Name=alldata)
+2021-08-09 18:43:07.2859 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-09 19:11:29.0595 Info Message Template Auto Format enabled
+2021-08-09 19:11:29.1031 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-09 19:11:29.2319 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-09 19:11:29.3757 Info Adding target FileTarget(Name=alldata)
+2021-08-09 19:11:29.4361 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-09 19:12:39.6916 Info Shutdown() called. Logger closing...
+2021-08-09 19:12:39.6961 Info Closing old configuration.
+2021-08-09 19:12:39.6961 Info Logger has been closed down.
+2021-08-09 19:12:39.7140 Info AppDomain Shutting down. Logger closing...
+2021-08-09 19:12:39.7140 Info Logger has been shut down.
+2021-08-09 19:12:44.6954 Info Message Template Auto Format enabled
+2021-08-09 19:12:44.7211 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-09 19:12:44.8091 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-09 19:12:44.8846 Info Adding target FileTarget(Name=alldata)
+2021-08-09 19:12:44.9473 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-09 19:12:46.9080 Info Shutdown() called. Logger closing...
+2021-08-09 19:12:46.9080 Info Closing old configuration.
+2021-08-09 19:12:46.9299 Info Logger has been closed down.
+2021-08-09 19:19:26.3028 Info Message Template Auto Format enabled
+2021-08-09 19:19:26.3401 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-09 19:19:26.4326 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-09 19:19:26.5088 Info Adding target FileTarget(Name=alldata)
+2021-08-09 19:19:26.5674 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-09 19:20:48.5179 Info Shutdown() called. Logger closing...
+2021-08-09 19:20:48.5310 Info Closing old configuration.
+2021-08-09 19:20:48.5642 Info Logger has been closed down.
+2021-08-09 19:20:48.5726 Info AppDomain Shutting down. Logger closing...
+2021-08-09 19:20:48.5726 Info Logger has been shut down.
+2021-08-09 19:20:53.3702 Info Message Template Auto Format enabled
+2021-08-09 19:20:53.4003 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-09 19:20:53.4915 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-09 19:20:53.5704 Info Adding target FileTarget(Name=alldata)
+2021-08-09 19:20:53.6261 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-09 19:23:00.7915 Info Shutdown() called. Logger closing...
+2021-08-09 19:23:00.8047 Info Closing old configuration.
+2021-08-09 19:23:00.8340 Info Logger has been closed down.
+2021-08-09 19:23:00.8428 Info AppDomain Shutting down. Logger closing...
+2021-08-09 19:23:00.8428 Info Logger has been shut down.
+2021-08-10 08:18:09.8476 Info Message Template Auto Format enabled
+2021-08-10 08:18:09.8921 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:18:10.1185 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 08:18:10.1736 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:18:10.3416 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\NLog.config
+2021-08-10 08:18:10.3902 Info Configuration initialized.
+2021-08-10 08:18:10.4013 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 08:18:11.4392 Info AppDomain Shutting down. Logger closing...
+2021-08-10 08:18:11.4984 Info Logger has been shut down.
+2021-08-10 08:19:11.0974 Info Message Template Auto Format enabled
+2021-08-10 08:19:11.1209 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:19:11.2067 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 08:19:11.2974 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:19:11.3959 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\NLog.config
+2021-08-10 08:19:11.4538 Info Configuration initialized.
+2021-08-10 08:19:11.4658 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 08:19:13.1681 Info AppDomain Shutting down. Logger closing...
+2021-08-10 08:19:13.2004 Info Logger has been shut down.
+2021-08-10 08:19:51.0138 Info Message Template Auto Format enabled
+2021-08-10 08:19:51.1455 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:19:51.2949 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 08:19:51.3456 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:19:51.3946 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\NLog.config
+2021-08-10 08:19:51.4292 Info Configuration initialized.
+2021-08-10 08:19:51.4292 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 08:19:53.6706 Info AppDomain Shutting down. Logger closing...
+2021-08-10 08:19:53.7098 Info Logger has been shut down.
+2021-08-10 08:20:20.8445 Info Message Template Auto Format enabled
+2021-08-10 08:20:20.8679 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:20:20.9670 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 08:20:21.0395 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:20:21.0952 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 08:21:00.5509 Info Message Template Auto Format enabled
+2021-08-10 08:21:00.5737 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:21:00.6479 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 08:21:00.7569 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:21:00.8427 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 08:32:56.2987 Info Message Template Auto Format enabled
+2021-08-10 08:32:56.3156 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:32:56.3672 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 08:32:56.4039 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:32:56.4385 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 08:33:28.3792 Info Message Template Auto Format enabled
+2021-08-10 08:33:28.4150 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:33:28.5346 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 08:33:28.6033 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:33:28.6632 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 08:46:53.5555 Info Message Template Auto Format enabled
+2021-08-10 08:46:53.5843 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:46:53.6838 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 08:46:53.7533 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:46:53.8147 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 08:48:51.5346 Info Message Template Auto Format enabled
+2021-08-10 08:48:51.5683 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:48:51.6697 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 08:48:51.7489 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:48:51.8023 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 08:53:54.1369 Info Message Template Auto Format enabled
+2021-08-10 08:53:54.1762 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 08:53:54.3151 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 08:53:54.4448 Info Adding target FileTarget(Name=alldata)
+2021-08-10 08:53:54.5101 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 09:01:21.2421 Info Message Template Auto Format enabled
+2021-08-10 09:01:21.2596 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:01:21.3227 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 09:01:21.3518 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:01:21.4025 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 09:03:10.0204 Info Message Template Auto Format enabled
+2021-08-10 09:03:10.0399 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:03:10.1214 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 09:03:10.1818 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:03:10.2234 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\NLog.config
+2021-08-10 09:03:10.2554 Info Configuration initialized.
+2021-08-10 09:03:10.2625 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 09:03:11.4373 Info AppDomain Shutting down. Logger closing...
+2021-08-10 09:03:11.4624 Info Logger has been shut down.
+2021-08-10 09:03:30.9561 Info Message Template Auto Format enabled
+2021-08-10 09:03:30.9692 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:03:31.0089 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 09:03:31.0424 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:03:31.0716 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\NLog.config
+2021-08-10 09:03:31.0929 Info Configuration initialized.
+2021-08-10 09:03:31.0929 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-08-10 09:03:32.2891 Info AppDomain Shutting down. Logger closing...
+2021-08-10 09:03:32.3061 Info Logger has been shut down.
+2021-08-10 09:03:41.6489 Info Message Template Auto Format enabled
+2021-08-10 09:03:41.6649 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:03:41.7197 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 09:03:41.7626 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:03:41.8119 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 09:09:54.8811 Info Message Template Auto Format enabled
+2021-08-10 09:09:54.9029 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:09:54.9795 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 09:09:55.0294 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:09:55.0750 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 09:12:05.7857 Info Message Template Auto Format enabled
+2021-08-10 09:12:05.8036 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:12:05.8674 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 09:12:05.9101 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:12:05.9492 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 09:13:36.4969 Info Message Template Auto Format enabled
+2021-08-10 09:13:36.5163 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:13:36.5813 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 09:13:36.6290 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:13:36.6682 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 09:22:54.5353 Info Message Template Auto Format enabled
+2021-08-10 09:22:54.5643 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:22:54.6690 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 09:22:54.7648 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:22:54.8116 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 09:36:28.9312 Info Message Template Auto Format enabled
+2021-08-10 09:36:28.9600 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:36:29.0483 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 09:36:29.1448 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:36:29.1910 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 09:36:35.9486 Info Message Template Auto Format enabled
+2021-08-10 09:36:35.9634 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 09:36:36.0134 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 09:36:36.0504 Info Adding target FileTarget(Name=alldata)
+2021-08-10 09:36:36.0857 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-10 16:39:55.5228 Info Message Template Auto Format enabled
+2021-08-10 16:39:55.6083 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-10 16:39:55.7525 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-10 16:39:55.9085 Info Adding target FileTarget(Name=alldata)
+2021-08-10 16:39:56.0851 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
