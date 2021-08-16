@@ -230,3 +230,23 @@
    at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
 2021-08-10 16:39:55.9085 Info Adding target FileTarget(Name=alldata)
 2021-08-10 16:39:56.0851 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=D:\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-15 13:23:08.8003 Info Message Template Auto Format enabled
+2021-08-15 13:23:08.8531 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-15 13:23:09.3400 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-15 13:23:09.9364 Info Adding target FileTarget(Name=alldata)
+2021-08-15 13:23:10.0050 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=C:\Users\ahmed\OneDrive\Documents\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-15 13:23:38.6262 Info Shutdown() called. Logger closing...
+2021-08-15 13:23:38.6262 Info Closing old configuration.
+2021-08-15 13:23:38.6717 Info Logger has been closed down.
+2021-08-16 17:35:30.0678 Info Message Template Auto Format enabled
+2021-08-16 17:35:30.1253 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-16 17:35:30.2357 Error Error parsing layout threadcount will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'threadcount'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-08-16 17:35:30.3430 Info Adding target FileTarget(Name=alldata)
+2021-08-16 17:35:30.4871 Info Validating config: TargetNames=alldata, ConfigItems=31, FilePath=C:\Users\ahmed\OneDrive\Documents\TechnicalTest\Inetum\Inetum.Api\bin\Debug\netcoreapp3.1\nlog.config
+2021-08-16 17:35:54.5312 Info Shutdown() called. Logger closing...
+2021-08-16 17:35:54.5312 Info Closing old configuration.
+2021-08-16 17:35:54.5402 Info Logger has been closed down.
